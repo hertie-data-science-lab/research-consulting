@@ -16,9 +16,9 @@ Once you book an appointment, a research consultant will send an invitation to j
 
 # SCRIPTS Researchers 
 
-If you are a researcher affiliated with SCRIPTS, fill out the [consultation request form](https://forms.gle/uTUNPgW4UrZhRJVa9) to request an appointment with a research consultant. 
+If you are a researcher affiliated with SCRIPTS, fill out the [consultation request form](https://forms.gle/uTUNPgW4UrZhRJVa9) to request an appointment with a research consultant. After you submit the form, a research consultant will reach out via email to schedule an appointment. 
 
-After you submit the form, a research consultant will reach out via email to schedule an appointment. Email consulting is also available for questions that do not require a scheduled meeting. 
+Email consulting is also available for questions that do not require a scheduled meeting. 
 
 # Frequently Asked Questions
 
@@ -45,7 +45,7 @@ We may not be the best for assisting with coursework, as we are not familiar wit
 
 **Will you fix my computer?**
 
-If you are having a problem with research software, we will certainly try. For example, we specialize in fixing R-related problems and can often deal with python setup. However, for general computing problems and Windows-specific issues you should make an appointment with your respective IT department. If you're not sure which sort of problem you are up against, ask us anyway!
+If you are having a problem with research software, we will certainly try. For example, we specialize in fixing `R`-related problems and can often deal with python setup. However, for general computing problems and Windows-specific issues you should make an appointment with your respective IT department. If you're not sure which sort of problem you are up against, ask us anyway!
 
 **I am a PI seeking out support for a larger research project. Can you help me?**
 
