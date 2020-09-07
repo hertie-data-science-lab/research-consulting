@@ -1,0 +1,30 @@
+name: "research-consulting"
+title: "Research Consulting"
+favicon: images/hertieschool_small.png
+description: |
+  Description here 
+output_dir: "_site"
+author: 
+ - name: "Dr. William Lowe"
+   affiliation: Hertie School Data Science Lab 
+   affiliation_url: https://www.hertie-school.org/en/datasciencelab/ 
+ - name: "Allison Koh"
+   affiliation: Hertie School Data Science Lab 
+   affiliation_url: https://www.hertie-school.org/en/datasciencelab/ 
+navbar:
+  logo: 
+    image: images/hertieschool_dsl_rgb.png
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Consultations"
+      href: consultations.html
+    - text: "Workshops"
+      href: workshops.html
+output:
+  distill::distill_article:
+    css: styles.css
+
+

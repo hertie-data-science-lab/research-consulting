@@ -1,0 +1,18 @@
+---
+title: "Workshops"
+description: |
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+*Workshops for the Fall 2020 semester are TBA.*
+
+# Previous Workshops Available Online
+
+### Spring 2020
+
+- [A gentle introduction to base R and RStudio](https://github.com/hertie-data-science-lab/ds-workshop-r-intro) (January 2020)
+- [Modern data management with R ](https://github.com/hertie-data-science-lab/ds-workshop-datamanagement) (January 2020)
+- [Data Visualization with `ggplot2`](https://github.com/hertie-data-science-lab/ds-workshop-dataviz) (March 2020)

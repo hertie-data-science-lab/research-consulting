@@ -1,0 +1,56 @@
+---
+title: "Consultations"
+description: |
+  Instructions for Appointments and FAQs
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Hertie School Students and Researchers
+
+If you are a student or researcher at the Hertie School, book an appointment on [Moodle](https://moodle.hertie-school.org/mod/scheduler/view.php?id=57896). In the event that there are technical issues, feel free to [reach out to us via email](mailto:koh@hertie-school.org).
+
+Once you book an appointment, a research consultant will send an invitation to join a Microsoft Teams meeting via email. The research consultant may also request additional information about your issue to prepare for the meeting. 
+
+# SCRIPTS Researchers 
+
+If you are a researcher affiliated with SCRIPTS, fill out the [consultation request form](https://forms.gle/uTUNPgW4UrZhRJVa9) to request an appointment with a research consultant. 
+
+After you submit the form, a research consultant will reach out via email to schedule an appointment. Email consulting is also available for questions that do not require a scheduled meeting. 
+
+# Frequently Asked Questions
+
+*NOTE: Questions specific to the Hertie community can be found on [Moodle](https://moodle.hertie-school.org/mod/scheduler/view.php?id=57896).*
+
+**Which resources do you recommend for learning `R`?** 
+
+There are plenty of resources for learning `R` that are freely available online, such as:
+
+- [RStudio Primers](https://rstudio.cloud/learn/primers)
+- [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) (Jenny Bryan)
+- [STA 199: Intro to data science](http://www2.stat.duke.edu/courses/Srping18/Sta199/) (Mine Cetinkaya-Rundel)
+- [Data science in a box](https://datasciencebox.org/) (RStudio)
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) (Garrett Grolemund)
+- [RStudio Education](https://education.rstudio.com/learn/beginner/)'s list of resources for Beginners 
+
+**Will you help me with specific questions about my dissertation?**
+
+We are happy to help with the *implementation* of methodological approaches suggested by your supervisor or PI. While research consultants might have an idea of which empirical strategies fit your research, specific advice about methods should come from your supervisor. Once you have an idea of which approaches you would like to implement, we can advise on which statistical packages might get you there and what resources are available for learning about a particular method. 
+
+**Will you help me with my coursework?**
+
+We may not be the best for assisting with coursework, as we are not familiar with the expectations of your professors or TAs. We suggest you first ask them about any data issues related to your coursework. 
+
+**Will you fix my computer?**
+
+If you are having a problem with research software, we will certainly try. For example, we specialize in fixing R-related problems and can often deal with python setup. However, for general computing problems and Windows-specific issues you should make an appointment with your respective IT department. If you're not sure which sort of problem you are up against, ask us anyway!
+
+**I am a PI seeking out support for a larger research project. Can you help me?**
+
+For questions related to research support on larger projects, please reach out via email to [Slava Jankin](mailto:jankin@hertie-school.org).
+
+**I've already got my data. Can you help me wrestle it into the right shape?**
+
+Definitely. We enjoy that sort of thing.
