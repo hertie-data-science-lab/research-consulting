@@ -15,7 +15,7 @@ We offer individual consultations and workshops for graduate students and resear
 
 # Who? 
 
-We are [Dr. Will Lowe](mailto:lowe@hertie-school.org) and [Allison Koh](mailto:koh@hertie-school.org). We particularly like to help with: 
+We are [Dr. Will Lowe](mailto:lowe@hertie-school.org), [Allison Koh](mailto:koh@hertie-school.org), and [Lisa Oswald](mailto:lisa.oswald@t-online.de). We particularly like to help with: 
 
 - **Allison**: Learning R and RStudio. Data wrangling, visualization, and working with text data in R and Python. Statistical computing in Stata.
 

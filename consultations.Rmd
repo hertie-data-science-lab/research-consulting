@@ -8,18 +8,18 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Hertie School Students and Researchers
-
-If you are a student or researcher at the Hertie School, book an appointment on [Moodle](https://moodle.hertie-school.org/mod/scheduler/view.php?id=57896). In the event that there are technical issues, feel free to [reach out to us via email](mailto:koh@hertie-school.org).
-
-Once you book an appointment, a research consultant will send an invitation to join a Microsoft Teams meeting via email. The research consultant may also request additional information about your issue to prepare for the meeting. 
-
 # SCRIPTS Researchers 
 
 If you are a researcher affiliated with SCRIPTS, fill out the [consultation request form](https://forms.gle/uTUNPgW4UrZhRJVa9) to request an appointment with a research consultant. After you submit the form, a research consultant will reach out via email to schedule an appointment. 
 
 [Email consulting](mailto:koh@hertie-school.org) is also available for questions that do not require a scheduled meeting. 
 
+# Hertie School Students and Researchers
+
+If you are a student or researcher at the Hertie School, book an appointment on [Moodle](https://moodle.hertie-school.org/mod/scheduler/view.php?id=57896). In the event that there are technical issues, feel free to [reach out to us via email](mailto:koh@hertie-school.org).
+
+Once you book an appointment, a research consultant will send you an invitation to join a Microsoft Teams meeting via email. The research consultant may also request additional information about your issue to prepare for the meeting.
+ 
 # Frequently Asked Questions
 
 *NOTE: Questions specific to the Hertie community can be found on [Moodle](https://moodle.hertie-school.org/mod/scheduler/view.php?id=57896).*
@@ -47,7 +47,7 @@ We may not be the best for assisting with coursework, as we are not familiar wit
 
 If you are having a problem with research software, we will certainly try. For example, we specialize in fixing `R`-related problems and can often deal with python setup. However, for general computing problems and Windows-specific issues you should make an appointment with your respective IT department. If you're not sure which sort of problem you are up against, ask us anyway!
 
-**I am a PI seeking out support for a larger research project. Can you help me?**
+**I am a Professor/PI seeking out support for a larger research project. Can you help me?**
 
 For questions related to research support on larger projects, please reach out via email to [Slava Jankin](mailto:jankin@hertie-school.org).
 
