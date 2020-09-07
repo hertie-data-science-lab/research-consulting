@@ -12,11 +12,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-```{r logos, out.width = "50%", fig.align = "right"}
-knitr::include_graphics(c("images/hertieschool_rgb.png","images/SCRIPTS.png"))
+```{r logos, out.width = "50%"}
+knitr::include_graphics(c("images/hertieschool_dsl_rgb.png","images/SCRIPTS.png"))
 ```
 
 The Hertie School Data Science Lab's Research Consulting team provides resources and advice on methodological and technical issues for graduate students and researchers at the Hertie School and the SCRIPTS Cluster of Excellence. We primarily focus on questions of research design, quantitative measurement and statistical inference, computational tools, and data visualization. 
+
+We offer individual consultations and workshops for graduate students and researchers at the [Hertie School](https://www.hertie-school.org/en/) and the [SCRIPTS Cluster of Excellence](https://www.scripts-berlin.eu/). As of March 2020, we have been operating our consultations and workshops fully online. 
 
 - [Book a Consultation (Hertie School Students and Researchers)](https://moodle.hertie-school.org/mod/scheduler/view.php?id=57896)
 - [Book a Consultation (SCRIPTS Researchers)](https://forms.gle/uTUNPgW4UrZhRJVa9)
