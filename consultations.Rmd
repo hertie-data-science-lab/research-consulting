@@ -35,9 +35,15 @@ There are plenty of resources for learning `R` that are freely available online,
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) (Garrett Grolemund)
 - [RStudio Education](https://education.rstudio.com/learn/beginner/)'s list of resources for Beginners 
 
-**Will you help me with specific questions about my dissertation?**
+**Will you help me with specific questions about my dissertation or research?**
 
-We are happy to help with the *implementation* of methodological approaches suggested by your supervisor or PI. While research consultants might have an idea of which empirical strategies fit your research, specific advice about methods should come from your supervisor. Once you have an idea of which approaches you would like to implement, we can advise on which statistical packages might get you there and what resources are available for learning about a particular method. 
+We are happy to help with the *implementation* of methodological approaches suggested by your supervisor, PI, or professor. While research consultants might have an idea of which empirical strategies fit your research, specific advice about methods should come from your supervisor. Once you have an idea of which approaches you would like to implement, we can advise on which statistical packages might get you there and what resources are available for learning about a particular method. 
+
+**How should I expect to work with my research consultant after an initial meeting has taken place?**
+
+Research consultants can follow up with advice and assistance on projects via email consulting and follow-up appointments. Regardless of the arrangement you and your consultant decide upon, please note that the research consultant cannot write original code or text for your thesis or research. 
+
+Collaborations with your research consultants beyond initial consultations and general inquiries would be a separate arrangement outside the remit of research consulting services. 
 
 **Will you help me with my coursework?**
 
@@ -47,10 +53,14 @@ We may not be the best for assisting with coursework, as we are not familiar wit
 
 If you are having a problem with research software, we will certainly try. For example, we specialize in fixing `R`-related problems and can often deal with python setup. However, for general computing problems and Windows-specific issues you should make an appointment with your respective IT department. If you're not sure which sort of problem you are up against, ask us anyway!
 
-**I am a Professor/PI seeking out support for a larger research project. Can you help me?**
-
-For questions related to research support on larger projects, please reach out via email to [Slava Jankin](mailto:jankin@hertie-school.org).
-
 **I've already got my data. Can you help me wrestle it into the right shape?**
 
 Definitely. We enjoy that sort of thing.
+
+__I would like to provide feedback on my research consulting experience. Who can I reach out to?__
+
+For questions or remarks related to your research consulting experience, or if you are having difficulty reaching out to your research consultant, please contact [Will Lowe](mailto:lowe@hertie-school.org) via email.
+
+**I am a Professor/PI seeking out support for a larger research project. Can you help me?**
+
+For questions related to research support on larger projects, please reach out via email to [Slava Jankin](mailto:jankin@hertie-school.org).
