@@ -7,14 +7,14 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-*Workshops for the Fall 2020 semester are TBA.*
 
 # Previous Workshops Available Online
 
+### Fall 2020 
+
+- [A Primer to Web Scraping with R](https://github.com/hertie-data-science-lab/ds-workshop-webscraping) (October 2020)
+
 ### Spring 2020
-
-
-
 
 - [A gentle introduction to base R and RStudio](https://github.com/hertie-data-science-lab/ds-workshop-r-intro) (January 2020)
 - [Modern data management with R ](https://github.com/hertie-data-science-lab/ds-workshop-datamanagement) (January 2020)
