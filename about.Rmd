@@ -15,9 +15,9 @@ We offer individual consultations and workshops for graduate students and resear
 
 # Who? 
 
-We are [Olga Gasparyan, PhD](mailto:o.gasparyan@hertie-school.org), [Dr. Will Lowe](mailto:lowe@hertie-school.org), [Allison Koh](mailto:koh@hertie-school.org), and [Lisa Oswald](mailto:l.oswald@phd.hertie-school.org). We particularly like to help with: 
+We are [Dr. Olga Gasparyan](mailto:o.gasparyan@hertie-school.org), [Dr. Will Lowe](mailto:lowe@hertie-school.org), [Allison Koh](mailto:koh@hertie-school.org), and [Lisa Oswald](mailto:l.oswald@phd.hertie-school.org). We particularly like to help with: 
 
--  __Olga__: Linear Models and data visualization in R (including maps), research design and causal inference, basic survey and experiments questions, data management in R and Python, basic Python questions, web scrapping in Python (including Selenium), Latex, basic ML consulting.  
+-  **Dr. Gasparyan**: Linear Models and data visualization in R (including maps), research design and causal inference, basic survey and experiments questions, data management in R and Python, basic Python questions, web scrapping in Python (including Selenium), Latex, basic ML consulting.  
 
 - **Dr. Lowe**: Research design, causal inference, statistical modeling; data wrangling, visualization, text analysis (statistical or manual), GIS (maps), code optimization and parallel computing, all in R. Basic python consulting.
 
