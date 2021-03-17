@@ -1,0 +1,21 @@
+---
+title: "Research Consulting"
+description: |
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+```{r logos, out.width = "50%"}
+knitr::include_graphics(c("images/hertieschool_dsl_rgb.png","images/SCRIPTS.png"))
+```
+
+The Hertie School Data Science Lab's Research Consulting team provides resources and advice on methodological and technical issues for graduate students, researchers, and faculty at the Hertie School and the SCRIPTS Cluster of Excellence. We primarily focus on questions of research design, quantitative measurement and statistical inference, computational tools, and data visualization. 
+
+We offer individual consultations and workshops for graduate students and researchers at the [Hertie School](https://www.hertie-school.org/en/) and the [SCRIPTS Cluster of Excellence](https://www.scripts-berlin.eu/). As of March 2020, we have been operating our [consultations](consultations.html) and [workshops](workshops.html) fully online. 
